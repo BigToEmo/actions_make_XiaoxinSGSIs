@@ -1,6 +1,6 @@
 {
-  "rom_url": "https://hugeota.d.miui.com/20.9.4/miui_MI8SE_20.9.4_8b18fec4c4_10.0.zip",
-  "rom_name": "miui_MI8SE_20.9.4_8b18fec4c4_10.0.zip.zip",
+  "rom_url": "https://cudrs4c97infki9et05t5ts9i24avrra3jc6demvgs19n1s87c5fv68b.qc.dolfincdnx.cn:32354/xdispatch75b2731b6f06ed7d/bigota.d.miui.com/V13.0.7.0.SLFCNXM/miui_DITING_V13.0.7.0.SLFCNXM_c3f9ad188c_12.0.zip?bsreqid=544e24cee81428a648756affac08f0c4",
+  "rom_name": "miui_1307.zip.zip",
   "pack_sgsi": "XiaoxinSGSIs_Pinkdoge.7z",
   "rom_url": "https://udomain.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.10.22/xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
   "rom_name": "xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
@@ -11,5 +11,5 @@
   "make_h2os": false,
   "make_smartisanos": false,
   "make_zui": false,
-  "make_super": false
+  "make_super": true
 }
